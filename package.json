@@ -1,5 +1,5 @@
 {
-  "name": "next-js-boilerplate",
+  "name": "blog",
   "version": "3.54.0",
   "scripts": {
     "dev:spotlight": "spotlight-sidecar",
@@ -148,5 +148,5 @@
       "@semantic-release/github"
     ]
   },
-  "author": "Ixartz (https://github.com/ixartz)"
+  "author": "tyx-819"
 }
